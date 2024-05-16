@@ -5,23 +5,6 @@ export default function Addcell(){
         <div>
 
         header
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
         
         </div>
     )
